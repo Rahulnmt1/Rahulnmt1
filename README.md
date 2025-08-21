@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rahulnmt1
-- 👀 I’m interested in Database design,performance,architecture,engineering and data modeling
+- 👋 Hi, I’m @RahulChoubey
+- 👀 I’m interested in Solution design,database performance,architecture,engineering and data modeling
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahulnmt1@gmail.com

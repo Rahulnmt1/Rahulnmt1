@@ -153,21 +153,7 @@ I'm an **Enterprise Architect and Database Specialist** with deep experience des
 <!-- DEMO-INDEX:START -->
 ## 📂 Project Index
 
-<sub>Every repository, grouped by type and kept current automatically. 🔒 = private (only visible to me).</sub>
-
-### 🏦 Customer Solution Demos
-
-| Project | Description | Language | Updated |
-|---|---|---|---|
-| 🔒 **[S*a*e*h*n — Risk Management System (RMS) on Redis](https://github.com/Rahulnmt1/S_a_e_h_n-RMS-Redis-Demo)** | Stock-broking Risk Management System (RMS) demo on Redis: 100k order-detail JSON documents (300–700 bytes each), customer-optimized data models and a .NET RMS app. | C# | 2026-10-04 |
-| 🔒 **[T*S — IT Help-Desk AI Optimization Demo App](https://github.com/Rahulnmt1/T_S-Helpdesk-AI-Demo-App)** | Deterministic customer demo app for help-desk AI token optimization with Redis: semantic routing, semantic cache and compact-context savings shown action by action, with a presenter runbook. | TypeScript | 2026-10-04 |
-| 🔒 **[T*S — IT Help-Desk AI Token Optimization (Docs & ADK Reference)](https://github.com/Rahulnmt1/T_S-Helpdesk-AI-Token-Optimization)** | Help-desk AI token-optimization engagement with Redis Enterprise: Google ADK reference implementation (semantic caching, semantic routing, short- and long-term agent memory), demo brief, decks and integration… | Python | 2026-10-04 |
-| 🔒 **[S*n*L*v — Query Engine Face-Off (Cloud Edition)](https://github.com/Rahulnmt1/S_n_L_v-Query-Engine-Face-Off-Cloud)** | Cloud-deployable edition of the Redis Query Engine vs OpenSearch face-off for an OTT listing-service workload, with Python and Node.js backends. | Go Template | 2026-10-04 |
-| 🔒 **[S*n*L*v — Redis Query Engine vs OpenSearch Face-Off](https://github.com/Rahulnmt1/S_n_L_v-Query-Engine-Face-Off)** | Customer demo proving the Redis Query Engine against OpenSearch for an OTT listing-service workload: production search templates replayed head-to-head against single Redis commands, with a latency race and… | Go Template | 2026-10-04 |
-| 🔒 **[H*F* Securities — Redis Data Integration (RDI) Demo](https://github.com/Rahulnmt1/H_F_-Sec-RDI-Demo)** | Live Redis Data Integration demo for a securities portfolio use case: PostgreSQL → Debezium CDC → RDI → Redis Enterprise (Search + JSON) with 3M live customer documents, dashboard, benchmarks and runbook. | Python | 2026-10-04 |
-| 🔒 **[H*F* RTSP — Read-Optimized Dimension Data Serving](https://github.com/Rahulnmt1/H_F_-RTSP-Dimension-Data-Serving)** | Read-optimized dimension-data serving for real-time stream processing (RTSP) on Redis Enterprise Flex (RAM + NVMe): live benchmark dashboard vs KeyDB and Aurora PostgreSQL on EC2, Terraform infra and solution… | Shell | 2026-10-04 |
-| 🔒 **[A*i* Bank App 2.0 — Mobile & Netbanking Redis Showcase](https://github.com/Rahulnmt1/A_i_-Banking-App2-Redis-Showcase)** | Redis technical showcase for a mobile + netbanking App 2.0 programme: AWS infrastructure lifecycle scripts (Terraform), Redis Flex deployment and a live showcase web app. | JavaScript | 2026-10-04 |
-| 🔒 **[A*i* Bank — Mule Account Detection (HLL Showcase)](https://github.com/Rahulnmt1/A_i_-Bank-Mule-Account-HLL-Showcase)** | High-velocity beneficiary aggregation showcase for mule-account detection on Redis Enterprise: HyperLogLog cross-customer estimates, exact Sorted Set verification, replay-safe event processing and an… | HTML | 2026-10-04 |
+<sub>Repositories grouped by type and kept current automatically. Customer work is private and not listed here.</sub>
 
 ### 🚀 Redis Demos & Showcases
 
@@ -182,7 +168,6 @@ I'm an **Enterprise Architect and Database Specialist** with deep experience des
 
 | Project | Description | Language | Updated |
 |---|---|---|---|
-| **[customer-360-banking-dataset](https://github.com/Rahulnmt1/customer-360-banking-dataset)** | Synthetic 1.29M-row Indian retail-banking dataset (UCIC-linked) for Customer 360 demos — covers savings, loans, cards, netbanking transactions, KYC, and CRM. Ships with CSVs, formatted Excel workbooks, and a… | Python | 2026-10-04 |
 | **[banking-ltap-lakebase-reference-architecture](https://github.com/Rahulnmt1/banking-ltap-lakebase-reference-architecture)** | This project demonstrates a Lakebase/LTAP-inspired banking data architecture for real-time payment transactions, fraud scoring, customer 360 analytics and AI-agent memory using PostgreSQL, Kafka, Spark, Delta… | — | 2026-06-24 |
 
 ### 🧪 Redis Code Samples
@@ -200,7 +185,6 @@ I'm an **Enterprise Architect and Database Specialist** with deep experience des
 |---|---|---|---|
 | 🔒 **[Local-to-Git Tracker](https://github.com/Rahulnmt1/local-to-git-tracker)** | Hourly local → GitHub sync for demo projects: secrets vaulted in a private repo and symlinked back, chat history preserved privately, gitleaks-gated commits, automatic repo creation and a self-updating profile… | Python | 2026-10-04 |
 | **[Trading-Kavach](https://github.com/Rahulnmt1/Trading-Kavach)** | Automated intraday paper-trading framework for NSE equity & F&O. 3-strategy ensemble (ORB / VWAP-revert / EMA-Supertrend) + option-buy directional engine, four institutional filters (vol regime, RSI, %B, NSE… | Python | 2026-10-04 |
-| **[Drishti](https://github.com/Rahulnmt1/Drishti)** | Drishti — auto-refreshing knowledge-base engine for Indian BFSI customers (top 20 banks + NBFCs/insurers/fintechs). Mirrors IR decks, annual reports, transcripts and press releases; CLI search over a SQLite… | Python | 2026-05-22 |
 | **[devops-automated-pipeline](https://github.com/Rahulnmt1/devops-automated-pipeline)** | End-to-End DevOps Pipeline using Terraform, Ansible, Docker, and Jenkins | HCL | 2026-03-08 |
 
 ### 🎓 Workshops & Forks

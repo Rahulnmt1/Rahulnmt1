@@ -160,8 +160,8 @@ I'm an **Enterprise Architect and Database Specialist** with deep experience des
 | Project | Description | Language | Updated |
 |---|---|---|---|
 | **[Redis Iris Demos](https://github.com/Rahulnmt1/redis-iris-demos)** | Multi-domain AI agent demos for Redis Iris, Redis's unified context engine: Context Retriever, Agent Memory, LangCache and Semantic Routing across banking, food delivery, healthcare, sports betting, retail and… | Python | 2026-10-04 |
-| **[Redis Beyond Caching — Banking Showcase](https://github.com/Rahulnmt1/Redis-Beyond-Caching)** | Interactive Next.js showcase of Redis beyond caching for banking: a data-structures hub and module deep dives (Search, JSON, TimeSeries, Probabilistic, Vector Sets and more) running live against Redis Software… | TypeScript | 2026-10-04 |
 | **[redis-ai-context-engineering-semantic-cache-demo](https://github.com/Rahulnmt1/redis-ai-context-engineering-semantic-cache-demo)** | Redis for AI demo—vector search for handbook RAG, semantic cache for repeat intents, and a three-panel UI to teach context engineering. | TypeScript | 2026-10-04 |
+| **[Redis Beyond Caching — Banking Showcase](https://github.com/Rahulnmt1/Redis-Beyond-Caching)** | Interactive Next.js showcase of Redis beyond caching for banking: a data-structures hub and module deep dives (Search, JSON, TimeSeries, Probabilistic, Vector Sets and more) running live against Redis Software… | TypeScript | 2026-10-04 |
 | **[Redis for Core Banking (CBS) Modernization](https://github.com/Rahulnmt1/redis-core-banking-modernization)** | Single-screen demo of seven Redis Enterprise use cases for core-banking modernization: PostgreSQL 16 system of record pre-seeded with ~385k rows, Redis Enterprise, Node.js backend and React/Vite frontend… | JavaScript | 2026-10-04 |
 
 ### 🏗️ Reference Architectures & Datasets

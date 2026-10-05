@@ -153,7 +153,7 @@ I'm an **Enterprise Architect and Database Specialist** with deep experience des
 <!-- DEMO-INDEX:START -->
 ## 📂 Project Index
 
-<sub>Repositories grouped by type and kept current automatically. Customer work is private and not listed here.</sub>
+<sub>Repositories grouped by type and kept current automatically.</sub>
 
 ### 🚀 Redis Demos & Showcases
 
@@ -183,8 +183,6 @@ I'm an **Enterprise Architect and Database Specialist** with deep experience des
 
 | Project | Description | Language | Updated |
 |---|---|---|---|
-| 🔒 **[Local-to-Git Tracker](https://github.com/Rahulnmt1/local-to-git-tracker)** | Hourly local → GitHub sync for demo projects: secrets vaulted in a private repo and symlinked back, chat history preserved privately, gitleaks-gated commits, automatic repo creation and a self-updating profile… | Python | 2026-10-05 |
-| 🔒 **[projects-index](https://github.com/Rahulnmt1/projects-index)** | Owner-only index of all my repositories, public and private (auto-updated) | — | 2026-10-05 |
 | **[Trading-Kavach](https://github.com/Rahulnmt1/Trading-Kavach)** | Automated intraday paper-trading framework for NSE equity & F&O. 3-strategy ensemble (ORB / VWAP-revert / EMA-Supertrend) + option-buy directional engine, four institutional filters (vol regime, RSI, %B, NSE… | Python | 2026-10-04 |
 | **[devops-automated-pipeline](https://github.com/Rahulnmt1/devops-automated-pipeline)** | End-to-End DevOps Pipeline using Terraform, Ansible, Docker, and Jenkins | HCL | 2026-03-08 |
 

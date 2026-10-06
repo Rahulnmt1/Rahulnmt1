@@ -159,10 +159,10 @@ I'm an **Enterprise Architect and Database Specialist** with deep experience des
 
 | Project | Description | Language | Updated |
 |---|---|---|---|
+| **[redis-ai-context-engineering-semantic-cache-demo](https://github.com/Rahulnmt1/redis-ai-context-engineering-semantic-cache-demo)** | Redis for AI demo—vector search for handbook RAG, semantic cache for repeat intents, and a three-panel UI to teach context engineering. | TypeScript | 2026-10-06 |
+| **[Redis for Core Banking (CBS) Modernization](https://github.com/Rahulnmt1/redis-core-banking-modernization)** | Single-screen demo of seven Redis Enterprise use cases for core-banking modernization: PostgreSQL 16 system of record pre-seeded with ~385k rows, Redis Enterprise, Node.js backend and React/Vite frontend… | JavaScript | 2026-10-06 |
+| **[Redis Beyond Caching — Banking Showcase](https://github.com/Rahulnmt1/Redis-Beyond-Caching)** | Interactive Next.js showcase of Redis beyond caching for banking: a data-structures hub and module deep dives (Search, JSON, TimeSeries, Probabilistic, Vector Sets and more) running live against Redis Software… | TypeScript | 2026-10-06 |
 | **[Redis Iris Demos](https://github.com/Rahulnmt1/redis-iris-demos)** | Multi-domain AI agent demos for Redis Iris, Redis's unified context engine: Context Retriever, Agent Memory, LangCache and Semantic Routing across banking, food delivery, healthcare, sports betting, retail and… | Python | 2026-10-04 |
-| **[redis-ai-context-engineering-semantic-cache-demo](https://github.com/Rahulnmt1/redis-ai-context-engineering-semantic-cache-demo)** | Redis for AI demo—vector search for handbook RAG, semantic cache for repeat intents, and a three-panel UI to teach context engineering. | TypeScript | 2026-10-04 |
-| **[Redis Beyond Caching — Banking Showcase](https://github.com/Rahulnmt1/Redis-Beyond-Caching)** | Interactive Next.js showcase of Redis beyond caching for banking: a data-structures hub and module deep dives (Search, JSON, TimeSeries, Probabilistic, Vector Sets and more) running live against Redis Software… | TypeScript | 2026-10-04 |
-| **[Redis for Core Banking (CBS) Modernization](https://github.com/Rahulnmt1/redis-core-banking-modernization)** | Single-screen demo of seven Redis Enterprise use cases for core-banking modernization: PostgreSQL 16 system of record pre-seeded with ~385k rows, Redis Enterprise, Node.js backend and React/Vite frontend… | JavaScript | 2026-10-04 |
 
 ### 🏗️ Reference Architectures & Datasets
 
@@ -174,16 +174,16 @@ I'm an **Enterprise Architect and Database Specialist** with deep experience des
 
 | Project | Description | Language | Updated |
 |---|---|---|---|
-| **[Redis Java Connectivity Self-Test](https://github.com/Rahulnmt1/redis-java-connectivity-test)** | Minimal Maven/Java project to verify connectivity to Redis Enterprise or Redis Cloud using Jedis. | Java | 2026-10-04 |
-| **[Redis Vector Search Samples (Python & RedisVL)](https://github.com/Rahulnmt1/redis-vector-search-samples)** | Step-by-step Redis vector search samples in Python: JSON documents, attribute search, KNN, hybrid (vector + filter) and range queries, embedding generation, plus RedisVL examples. | Python | 2026-10-04 |
-| **[Redis Caching Patterns — Cache-Aside with PostgreSQL](https://github.com/Rahulnmt1/redis-caching-patterns)** | Cache-aside pattern with Redis in front of PostgreSQL: a Flask API showing cache miss → load from Postgres → populate Redis → cache hit, plus a bulk-insert loader. | Python | 2026-10-04 |
+| **[Redis Java Connectivity Self-Test](https://github.com/Rahulnmt1/redis-java-connectivity-test)** | Minimal Maven/Java project to verify connectivity to Redis Enterprise or Redis Cloud using Jedis. | Java | 2026-10-06 |
+| **[Redis Vector Search Samples (Python & RedisVL)](https://github.com/Rahulnmt1/redis-vector-search-samples)** | Step-by-step Redis vector search samples in Python: JSON documents, attribute search, KNN, hybrid (vector + filter) and range queries, embedding generation, plus RedisVL examples. | Python | 2026-10-06 |
+| **[Redis Caching Patterns — Cache-Aside with PostgreSQL](https://github.com/Rahulnmt1/redis-caching-patterns)** | Cache-aside pattern with Redis in front of PostgreSQL: a Flask API showing cache miss → load from Postgres → populate Redis → cache hit, plus a bulk-insert loader. | Python | 2026-10-06 |
 | **[Redis](https://github.com/Rahulnmt1/Redis)** | Redis projects | Python | 2026-05-20 |
 
 ### 🛠️ Projects & Tools
 
 | Project | Description | Language | Updated |
 |---|---|---|---|
-| **[Trading-Kavach](https://github.com/Rahulnmt1/Trading-Kavach)** | Automated intraday paper-trading framework for NSE equity & F&O. 3-strategy ensemble (ORB / VWAP-revert / EMA-Supertrend) + option-buy directional engine, four institutional filters (vol regime, RSI, %B, NSE… | Python | 2026-10-04 |
+| **[Trading-Kavach](https://github.com/Rahulnmt1/Trading-Kavach)** | Automated intraday paper-trading framework for NSE equity & F&O. 3-strategy ensemble (ORB / VWAP-revert / EMA-Supertrend) + option-buy directional engine, four institutional filters (vol regime, RSI, %B, NSE… | Python | 2026-10-06 |
 | **[devops-automated-pipeline](https://github.com/Rahulnmt1/devops-automated-pipeline)** | End-to-End DevOps Pipeline using Terraform, Ansible, Docker, and Jenkins | HCL | 2026-03-08 |
 
 ### 🎓 Workshops & Forks
